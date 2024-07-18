@@ -1,2 +1,5 @@
-# Shopping-Website
-Simple webpage using css, java and html. Can add items to cart and remove items
+# Shopping web site - cart item using javascipt
+
+- ADD ITEMS TO CART - JAVASCRIPT PROJECT
+
+- Function that add item to the cart is coded in js/app.js
